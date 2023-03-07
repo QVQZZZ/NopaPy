@@ -8,3 +8,4 @@ unit_test2.py
 *.egg-info
 dist
 build
+__pycache__
