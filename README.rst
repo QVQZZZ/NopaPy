@@ -9,11 +9,11 @@ Quick Start
 ::
 
     import numpy as np
-    import nopapy
+    import nopapy as npp
 
     x = np.array([1, 2, 3, 4, 5])
     y = np.array([2, 4, 6, 8, 10])
-    ypred = nopapy.NWEstimate(x, y, 3.5) # supposed to be 7
+    ypred = npp.NWEstimate(x, y, 3.5) # supposed to be 7
     print(ypred) # 6.910633194984344
 
 Other Modules
