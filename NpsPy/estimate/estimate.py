@@ -1,8 +1,8 @@
 import numpy as np
 from scipy import integrate
 
-from NpsPy.utils.check import check_input, check_estimate
-from NpsPy.utils.setting import DEFAULT_BANDWIDTH, DEFAULT_KERNEL, DEFAULT_DEGREE
+from npspy.utils.check import check_input, check_estimate
+from npspy.utils.setting import DEFAULT_BANDWIDTH, DEFAULT_KERNEL, DEFAULT_DEGREE
 
 __all__ = ["NWEstimate", "GMEstimate", "LPEstimate"]
 

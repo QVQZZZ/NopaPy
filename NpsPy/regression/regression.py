@@ -1,8 +1,8 @@
 import numpy as np
 
-from NpsPy.estimate.estimate import NWEstimate, GMEstimate, LPEstimate
-from NpsPy.utils.check import check_input, check_regression
-from NpsPy.utils.setting import DEFAULT_BANDWIDTH, DEFAULT_KERNEL, DEFAULT_DEGREE
+from npspy.estimate.estimate import NWEstimate, GMEstimate, LPEstimate
+from npspy.utils.check import check_input, check_regression
+from npspy.utils.setting import DEFAULT_BANDWIDTH, DEFAULT_KERNEL, DEFAULT_DEGREE
 
 __all__ = ["NWRegression", "GMRegression", "LPRegression"]
 

@@ -1,7 +1,7 @@
-from NpsPy.kernel.custom import *
-from NpsPy.kernel.kernel import *
-from NpsPy.estimate.estimate import *
-from NpsPy.regression.regression import *
+from npspy.kernel.custom import *
+from npspy.kernel.kernel import *
+from npspy.estimate.estimate import *
+from npspy.regression.regression import *
 '''
 custom: I, is_kernel
 Kernel: GaussianKernel, EpanechnikovKernel, tricubeKernel, boxcarKernel
