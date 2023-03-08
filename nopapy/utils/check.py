@@ -3,7 +3,7 @@ import warnings
 
 import numpy as np
 
-from npspy.utils.setting import DEFAULT_BANDWIDTH, DEFAULT_KERNEL
+from nopapy.utils.setting import DEFAULT_BANDWIDTH, DEFAULT_KERNEL
 
 
 def check_estimate(func):

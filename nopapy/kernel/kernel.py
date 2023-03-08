@@ -1,6 +1,6 @@
 import numpy as np
 
-from npspy.kernel.custom import I
+from nopapy.kernel.custom import I
 
 __all__ = ["GaussianKernel", "EpanechnikovKernel", "tricubeKernel", "boxcarKernel"]
 
