@@ -177,7 +177,7 @@ def EpanechnikovKernel(x):
 ```
 PS: GaussianKernel是个例外，它拥有优雅的数学性质。
 
-###👉 我的函数是否正确？
+### 👉 我的函数是否正确？
 我们还提供了函数is_kernel用于检测您的核函数是否正确，它以一个函数作为输入，输出一个布尔值作为正确与否的标志。
 ```python
 ret = is_kernel(GaussianKernel)

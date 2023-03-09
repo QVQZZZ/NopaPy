@@ -175,7 +175,7 @@ def EpanechnikovKernel(x):
 ```
 PS: GaussianKernel is an exception, it has elegant mathematical properties.
 
-###👉 Is my function correct?
+### 👉 Is my function correct?
 
 We also provide the function $is_kernel$ to check whether your kernel function is correct. It takes a function as input and outputs a boolean value as a flag for correctness.
 ```python
