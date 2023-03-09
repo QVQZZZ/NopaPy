@@ -3,7 +3,7 @@ Download
 
 ::
 
-    pip install nonpapy
+    pip install nopapy
 
 !!ATTENTION!!
 -------------
