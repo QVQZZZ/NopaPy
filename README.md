@@ -1,6 +1,13 @@
+<h1 align="center">🧰NoPaPy: 非参数统计🧰 </h1>
+
+<div align="center">
+
+[English](./README.en.md) | 简体中文
+</div>
+
 ## 🚀下载
 `
-pip install nonpapy
+pip install nopapy
 `
 
 ## 🎉快速开始

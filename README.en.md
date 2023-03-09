@@ -1,6 +1,13 @@
+<h1 align="center">🧰NoPaPy: NonParametric Statistic🧰 </h1>
+
+<div align="center">
+
+[English](./README.en.md) | 简体中文
+</div>
+
 ## 🚀Download
 `
-pip install nonpapy
+pip install nopapy
 `
 
 ## 🎉Quick Start
