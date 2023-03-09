@@ -14,6 +14,12 @@ ypred = npp.NWEstimate(x, y, 3.5) # supposed to be 7
 print(ypred) # 6.910633194984344
 ```
 
+## 📕还能做什么
+你可以实验各种非参数方法 ...
+<div align="center">
+    <img src="./pictures/ALL.svg" alt="ALL">
+</div>
+
 ## 🎨其他功能模块
 - kernel: 支持多种内置核函数，同时支持自定义核函数
 - estimate: 包含多种非参数估计方法，允许自定义核函数、光滑带宽、阶数

@@ -14,6 +14,13 @@ ypred = npp.NWEstimate(x, y, 3.5) # supposed to be 7
 print(ypred) # 6.910633194984344
 ```
 
+## 📕What Else Can You Do
+You can experiment with various nonparametric methods...
+<div align="center">
+    <img src="./pictures/ALL.svg" alt="ALL">
+</div>
+
+
 ## 🎨Other Modules
 - Kernel: Supports multiple built-in kernel functions and allows customization of kernel functions.
 - Estimate: Includes various non-parametric estimation methods, allowing customization of kernel functions, smooth bandwidth, and order.
