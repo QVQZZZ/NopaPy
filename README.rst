@@ -5,10 +5,9 @@ Download
 
     pip install nopapy
 
-!!ATTENTION!!
--------------
+⚠!!ATTENTION!!⚠
+---------------
 Check the `Project Homepage <https://github.com/QVQZZZ/NopaPy>`_ for the complete README.
-
 
 
 Quick Start
@@ -30,4 +29,4 @@ Other Modules
 -  Kernel: Supports multiple built-in kernel functions and allows customization of kernel functions.
 -  Estimate: Includes various non-parametric estimation methods, allowing customization of kernel functions, smooth bandwidth, and order.
 -  Regression: Provides multiple smoothing methods for batch prediction.
--  Scikit\_like: Supports the generation of regression objects with specific parameters like scikit-learn and PyTorch.
+-  Scikit_like: Supports the generation of regression objects with specific parameters like scikit-learn and PyTorch.
