@@ -1,7 +1,9 @@
 Download
 --------
 
-``pip install nonpapy``
+::
+
+    pip install nonpapy
 
 !!ATTENTION!!
 -------------
