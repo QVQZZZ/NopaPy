@@ -1,4 +1,4 @@
-<h1 align="center">🧰NoPaPy: 非参数统计🧰 </h1>
+<h1 align="center">🧰NopaPy: 非参数统计🧰 </h1>
 
 <div align="center">
 

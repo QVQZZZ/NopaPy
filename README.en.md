@@ -1,8 +1,8 @@
-<h1 align="center">🧰NoPaPy: NonParametric Statistic🧰 </h1>
+<h1 align="center">🧰NopaPy: NonParametric Statistic🧰 </h1>
 
 <div align="center">
 
-[English](./README.en.md) | 简体中文
+English | [简体中文](./README.md)
 </div>
 
 ## 🚀Download
