@@ -3,6 +3,12 @@ Download
 
 ``pip install nonpapy``
 
+!!ATTENTION!!
+-------------
+Check the `Project Homepage <https://github.com/QVQZZZ/NopaPy>`_ for the complete README.
+
+
+
 Quick Start
 -----------
 
