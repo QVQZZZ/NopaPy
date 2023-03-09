@@ -2,7 +2,7 @@
 
 <div align="center">
 
-English | [简体中文](./README.zh.md)
+[English](./README.zh.md) | 简体中文]
 </div>
 
 ## 🚀下载
