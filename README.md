@@ -62,7 +62,7 @@ plt.plot(xs0, y_pred, label='pred')
 plt.title('h={}, Kernel={}'.format(h, kernel.__name__))
 plt.legend(loc='best', frameon=True, framealpha=1, shadow=True)
 plt.show()
-# plt.savefig('./LPR.svg', dpi=2000)``
+# plt.savefig('./LPR.svg', dpi=2000)
 ```
 绘制的结果应该如下图所示，你可以调整带宽，更换核函数，更换回归方法，甚至是设定阶数来观察拟合效果的不同。
 
