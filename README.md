@@ -21,7 +21,7 @@ ypred = npp.NWEstimate(x, y, 3.5) # supposed to be 7
 print(ypred) # 6.910633194984344
 ```
 
-## 📕What Else Can You Do
+## 📕Visualization
 You can experiment with various nonparametric methods...
 <div align="center">
     <img src="./pictures/ALL.svg" alt="ALL">
